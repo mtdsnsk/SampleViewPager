@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="buttons">
+        <item>@drawable/buttondesign01</item>
+        <item>@drawable/buttondesign02</item>
+        <item>@drawable/buttondesign03</item>
+        <item>@drawable/buttondesign04</item>
+        <item>@drawable/buttondesign05</item>
+        <item>@drawable/buttondesign06</item>
+        <item>@drawable/buttondesign07</item>
+        <item>@drawable/buttondesign08</item>
+        <item>@drawable/buttondesign09</item>
+        <item>@drawable/buttondesign10</item>
+        <item>@drawable/buttondesign11</item>
+    </array>
+    <array name="colors">
+        <item>#FF0000</item>
+        <item>#1E90FF</item>
+        <item>#B0C4DE</item>
+        <item>#000080</item>
+        <item>#98FB98</item>
+        <item>#DEB887</item>
+        <item>#5F9EA0</item>
+        <item>#A9A9A9</item>
+        <item>#FFDEAD</item>
+        <item>#00008B</item>
+        <item>#87CEFA</item>
+        <item>#F08080</item>
+        <item>#40E0D0</item>
+        <item>#AFEEEE</item>
+        <item>#CD5C5C</item>
+    </array>
+    <array name="array_drawable">
+        <item>@drawable/images2</item>
+        <item>@drawable/images2</item>
+        <item>@drawable/images2</item>
+        <item>@drawable/images2</item>
+        <item>@drawable/images2</item>
+        <item>@drawable/images2</item>
+        <item>@drawable/images2</item>
+        <item>@drawable/images2</item>
+        <item>@drawable/images2</item>
+        <item>@drawable/images2</item>
+        <item>@drawable/images2</item>
+        <item>@drawable/images2</item>
+    </array>
+
+</resources>
